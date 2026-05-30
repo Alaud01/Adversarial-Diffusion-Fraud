@@ -2,3 +2,4 @@
 data
 *.zip
 ieee-fraud-detection.zip
+.DS_Store
